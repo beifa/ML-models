@@ -14,5 +14,6 @@
 - cost function
 - gradient
 - regularization
+- one vs all
 
 ##....
