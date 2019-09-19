@@ -22,3 +22,9 @@
 
 ## Anomaly_detection
 [Anomaly_detection](https://github.com/beifa/ML-models/blob/master/Anomaly_detection.ipynb)
+- Gaussian distribution
+- Threshold
+- F1 Score
+- EllipticEnvelope
+- OneClassSVM
+...not ended
