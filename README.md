@@ -26,6 +26,15 @@
 - Algoritm find best position centroid
 - KMeans
 
+## Neural Networks
+[Neural Networks](https://github.com/beifa/ML-models/blob/master/Neural_Networks.ipynb)
+- sygmoid func
+- init random weight
+- cost func
+- backpropagation
+- minimize func
+
+
 ## Off Top
 
 ## Anomaly_detection
