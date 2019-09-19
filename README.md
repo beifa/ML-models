@@ -8,6 +8,10 @@
 - curve learning 
 - normal equations
 - everything is simple Step-by-step
+- regularized linear regression
+- polynomial regression
+- learning curves
+- bias&variance
 
 ## Logistic Regression
 [Logistic Regression](https://github.com/beifa/ML-models/blob/master/Logistic_Regression.ipynb)
