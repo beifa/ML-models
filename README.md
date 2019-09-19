@@ -16,7 +16,11 @@
 - regularization
 - one vs all
 
-##....
+## K_means_Clustering
+[K_means_Clustering](https://github.com/beifa/ML-models/blob/master/K_means_Clustering.ipynb)
+- random initialization
+- Algoritm find best position centroid
+- KMeans
 
 ## Off Top
 
