@@ -1,7 +1,7 @@
 # I'm trying to understand how it all works.....
 
 ## LinearRegression
-[LinearRegression](https://nbviewer.jupyter.org/github.com/beifa/ML-models/blob/master/Linear_regression.ipynb)
+[LinearRegression](https://nbviewer.jupyter.org/github/beifa/ML-models/blob/master/Linear_regression.ipynb)
 - cost function
 - gradient
 - score
@@ -14,20 +14,20 @@
 - bias&variance
 
 ## Logistic Regression
-[Logistic Regression](https://nbviewer.jupyter.org/github.com/beifa/ML-models/blob/master/Logistic_Regression.ipynb)
+[Logistic Regression](https://nbviewer.jupyter.org/github/beifa/ML-models/blob/master/Logistic_Regression.ipynb)
 - cost function
 - gradient
 - regularization
 - one vs all
 
 ## K_means_Clustering
-[K_means_Clustering](https://nbviewer.jupyter.org/github.com/beifa/ML-models/blob/master/K_means_Clustering.ipynb)
+[K_means_Clustering](https://nbviewer.jupyter.org/github/beifa/ML-models/blob/master/K_means_Clustering.ipynb)
 - random initialization
 - Algoritm find best position centroid
 - KMeans
 
 ## Neural Networks
-[Neural Networks](https://nbviewer.jupyter.org/github.com/beifa/ML-models/blob/master/Neural_Networks.ipynb)
+[Neural Networks](https://nbviewer.jupyter.org/github/beifa/ML-models/blob/master/Neural_Networks.ipynb)
 - sygmoid func
 - init random weight
 - cost func
@@ -42,7 +42,7 @@
 - count components are enough to leave
 
 ## SVM
-[SVM](https://nbviewer.jupyter.org/github.com/beifa/ML-models/blob/master/svm.ipynb)
+[SVM](https://nbviewer.jupyter.org/github/beifa/ML-models/blob/master/svm.ipynb)
 - hyperplane
 - perceptron algorithm
 - SVC
@@ -50,7 +50,7 @@
 ## Off Top
 
 ## Anomaly_detection
-[Anomaly_detection](https://nbviewer.jupyter.org/github.com/beifa/ML-models/blob/master/Anomaly_detection.ipynb)
+[Anomaly_detection](https://nbviewer.jupyter.org/github/beifa/ML-models/blob/master/Anomaly_detection.ipynb)
 - Gaussian distribution
 - Threshold
 - F1 Score
